@@ -1,4 +1,4 @@
-# v.0.0.2
+# v.0.0.3
 ## designed to look at extensions of a files and pass it to analyzer
 
 import os
